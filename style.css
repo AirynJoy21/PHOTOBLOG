@@ -1,0 +1,13 @@
+body{
+    padding: 10px;
+}
+header h1{
+    font-size: 3em;
+}
+main{
+    display: inline;
+}
+img{
+    width: 30%;
+    margin: 10px;
+}
